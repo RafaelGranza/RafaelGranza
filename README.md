@@ -1,8 +1,5 @@
-### Hi there 👋
-
+![Gif](https://i.pinimg.com/originals/f5/80/81/f58081512c1df73315df1d5fa8f7f8c1.gif)
 <!--
-**RafaelGranza/RafaelGranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
