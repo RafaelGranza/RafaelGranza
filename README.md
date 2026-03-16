@@ -34,7 +34,7 @@ Algorithms, databases, storage engines and high-performance systems.
 
 I write about algorithms, systems engineering, concurrency, drones, learning, and quantum computing.
 
-➡️ https://rafaelgranza.github.io
+- https://rafaelgranza.github.io
 
 ---
 
@@ -42,4 +42,6 @@ I write about algorithms, systems engineering, concurrency, drones, learning, an
 
 My competitive programming group.
 
-➡️ https://github.com/BRUTEUdesc
+- https://github.com/BRUTEUdesc
+
+- https://brute.joinville.udesc.br
